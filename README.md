@@ -89,6 +89,28 @@ Displays generated brute-force alerts.
 
 ---
 
+## Screenshots
+
+### Triggered Alerts
+![Triggered Alerts](screenshots/{66A31C2B-9709-44CF-A336-920446867886}.png)
+
+### Hydra SSH Attack
+![Hydra Attack](screenshots/{20E97795-EB07-45DE-9ED2-3285CB9D2D12}.png)
+
+### SPL Detection Query
+![SPL Query](screenshots/{8C8DABFA-FDBA-47C2-AE3C-1F20F7EC7623}.png)
+
+### SOC Dashboard
+![SOC Dashboard](screenshots/{886C2BE7-E35E-4252-BEFC-5DFACAA9CFD8}.png)
+
+### SOC Dashboard - SSH Brute Force Timeline
+![SOC Dashboard Timeline](screenshots/{B4B3432E-50A8-44FB-9D20-16E26E5DA903}.png)
+
+### SOC Dashboard - Targeted Usernames
+![Targeted Usernames](screenshots/{8A71F267-5657-4AB5-A403-B2362E1E0370}.png)
+
+---
+
 ## Author
 
 Kaif Dhukka
